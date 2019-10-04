@@ -1,0 +1,12 @@
+.img {
+    padding: 50px;
+}
+body {
+    background-color: darkgrey;
+}
+.divPrincipal{
+    margin: 0 auto;
+    width: 70%; /* Valor da Largura */
+    height: 100%;
+
+}
